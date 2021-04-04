@@ -20,15 +20,7 @@ foreach ($data1 as $value) {
         //$dataf[] += [$ds[0] => $ds[1]];
 }
 
-print_r($dataf);
+return $dataf;
 
-// Print A Value Example :
-/*
-
-echo $dataf['country']; 
-
-Prints => "DE"
-
-*/
 
 ?>
