@@ -34,8 +34,7 @@
 
 <h2 align="center">Installation</h2>
 
-  HackTheBox requires <a href="https://www.python.org/">Python </a> v3 to run.
-  
+
   <h3>Linux</h3>
   
   ```
